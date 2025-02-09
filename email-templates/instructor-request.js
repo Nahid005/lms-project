@@ -11,7 +11,7 @@ export const instructorRequest = async (
 	// console.log(user.email)
 	const data = {
 		to: admin_email,
-		from: "nptl Language School <hello@envytheme.com>",
+		from: "nptl Language School <nahidhassan@nptl.com>",
 		subject: "New Instructor Request",
 		html: `
         <!DOCTYPE html>
