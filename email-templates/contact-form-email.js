@@ -10,8 +10,8 @@ export const contactFormEmail = async (
 ) => {
 	// console.log(user.email)
 	const data = {
-		to: "shabbir@envytheme.com",
-		from: "nptl Language School <hello@envytheme.com>",
+		to: "nahidhassan@nptl.com",
+		from: "nptl Language School <info@nptl.com>",
 		subject: "Contact Message",
 		html: `
         <!DOCTYPE html>
