@@ -5,7 +5,7 @@ export const checkoutConfirmation = async (cartItems, name, email) => {
   // console.log(user.email)
   const data = {
     to: email,
-    from: "nptl Language School <hello@envytheme.com>",
+    from: "nptl Language School <nahidhassan@nptl.com>",
     subject: "Checkout Confirmation",
     html: `
         <!DOCTYPE html>
